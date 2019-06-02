@@ -1,2 +1,3 @@
 /etc/sudoers
 /etc/passwd
+/var/spool/cron/crontab
